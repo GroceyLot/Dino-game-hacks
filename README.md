@@ -3,8 +3,7 @@ A small collection of hacks for the classic dinosaur game, works on a wide range
 
 Put this code into tampermonkey
 
-<code>
-// ==UserScript==
+<code>// ==UserScript==
 // @name         Dino game hacks
 // @run-at document-idle
 // @version      1
