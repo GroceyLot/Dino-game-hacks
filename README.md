@@ -2,6 +2,7 @@
 A small collection of hacks for the classic dinosaur game, works on a wide range of dino game websites.
 
 Put the code of the file "code" into tampermonkey and go to any of the websites listed below
+
 https://chromedino.com/
 
 https://chromedino.com/black/
