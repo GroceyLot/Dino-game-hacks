@@ -6,6 +6,8 @@
 // @author       Grocey
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/GroceyLot/Dino-game-hacks/Things/code
+// @downloadURL  https://raw.githubusercontent.com/GroceyLot/Dino-game-hacks/Things/code
 // @match https://chromedino.com/
 // @match https://chromedino.com/color/
 // @match https://chromedino.com/black/
