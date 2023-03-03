@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dino game hacks
 // @run-at document-idle
-// @version      1
+// @version      1.1
 // @description  A collection of hacks for the classic google dinosaur game, working on almost all dino game websites.
 // @author       Grocey
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
