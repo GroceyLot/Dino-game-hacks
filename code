@@ -68,7 +68,7 @@ function setspeed(v){
         }
         if(e.keyCode == "73"){
             if(i == 0){
-                window.alert("Enabling noclip");
+                window.alert("Ena noclip");
                 Runner.prototype.gameOver = function (){}
                 i = 1
             }else{
