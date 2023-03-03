@@ -2,6 +2,7 @@
 // @name         Dino game hacks
 // @run-at document-idle
 // @version      1.1
+// @license      https://raw.githubusercontent.com/GroceyLot/Dino-game-hacks/Things/LICENSE
 // @description  A collection of hacks for the classic google dinosaur game, working on almost all dino game websites.
 // @author       Grocey
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
@@ -68,7 +69,7 @@ function setspeed(v){
         }
         if(e.keyCode == "73"){
             if(i == 0){
-                window.alert("Ena noclip");
+                window.alert("Enabling noclip");
                 Runner.prototype.gameOver = function (){}
                 i = 1
             }else{
@@ -98,5 +99,4 @@ function setspeed(v){
             }
         }
     }
-
 })();
